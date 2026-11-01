@@ -43,6 +43,6 @@ I also build practical tools for real businesses, like real-time bot dashboards 
 ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=fff)
 
 ### 💼 Currently
-- Jr. Software Engineer at **Gurukulastic**, working on a payment gateway aggregation platform (chargebacks, merchant privacy, real-time monitoring and alert bots)
+- Software Engineer at **Gurukulastic**, working on a payment gateway aggregation platform (chargebacks, merchant privacy, real-time monitoring and alert bots)
 - Building mobile apps with React Native + Expo on the side
 - 📫 Reach me at **udityadav133@gmail.com**

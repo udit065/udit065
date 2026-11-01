@@ -42,9 +42,7 @@ I also build practical tools for real businesses, like real-time bot dashboards 
 ![MUI](https://img.shields.io/badge/MUI-007FFF?logo=mui&logoColor=fff)
 ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=fff)
 
-### 📊 GitHub stats
-
-<p>
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=udit065&show_icons=true&hide_border=true" alt="GitHub stats"/>
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=udit065&layout=compact&hide_border=true" alt="Top languages"/>
-</p>
+### 💼 Currently
+- Jr. Software Engineer at **Gurukulastic**, working on a payment gateway aggregation platform (chargebacks, merchant privacy, real-time monitoring and alert bots)
+- Building mobile apps with React Native + Expo on the side
+- 📫 Reach me at **udityadav133@gmail.com**
